@@ -1,6 +1,6 @@
 {
   "themes": [{
-    "name" : "booking",
+    "name" : "origo-booking-admin",
     "types": [ "login" ]
   }]
 }
