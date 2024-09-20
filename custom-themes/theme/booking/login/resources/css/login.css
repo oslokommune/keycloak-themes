@@ -1,0 +1,37 @@
+body {
+    font-family: "Oslo Sans", sans-serif;
+}
+
+html body .login-pf-page {
+    position: relative;
+    width: 500px;
+    margin: 200px auto;
+}
+
+.oslo-logo {
+    height: 90px;
+    position: absolute;
+    top: 25px;
+    left: 25px;
+}
+
+input, button, label, a {
+    margin-top: 20px;
+}
+
+a, label {
+    display: inline-block;
+}
+
+.tittel {
+    font-size: 2rem;
+}
+
+.username, .password {
+    width: 500px;
+}
+
+.submit {
+    float: right;
+    margin-right: 4px;
+}
