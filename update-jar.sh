@@ -1,3 +1,3 @@
 #!/bin/bash
 
-jar cf booking-theme.jar -C custom-themes/ .
+jar cf origo-themes.jar -C custom-themes/ .
