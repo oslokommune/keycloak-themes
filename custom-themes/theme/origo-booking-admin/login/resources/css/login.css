@@ -35,3 +35,7 @@ a, label {
     float: right;
     margin-right: 4px;
 }
+
+#kc-locale {
+    display: block;
+}
